@@ -1,0 +1,22 @@
+.btn_group {
+    display: flex;
+    gap: 5px;
+}
+
+.btn_red {
+    background-color: red;
+color: black;
+font-weight:bold;
+}
+.btn_yellow {
+    background-color: yellow;
+color: black;
+font-weight:bold;
+
+}
+.btn_green {
+    background-color: greenyellow;
+    color: black;
+    font-weight:bold;
+
+}
